@@ -6,6 +6,8 @@
 
 ### Run By Binaries
 
+      sh build.sh
+
 ##### Mac Os 64
 
       ./bin/spotify-macos-amd64
